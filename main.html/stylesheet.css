@@ -1,0 +1,13 @@
+body { background-color: lightgoldenrodyellow}
+
+head {text-align: center;
+}
+
+img {
+    border: 2px solid mediumpurple;
+    border-radius: 30px;
+    box-shadow: 5px 10px;
+}
+div.p {
+    text-align: center;
+}
